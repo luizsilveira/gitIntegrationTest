@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Luiz Silveira</string>
+    <string name="avatar">Avatar Resource</string>
+    <string name="yellow_star">Yellow Star String Resource</string>
+    <string name="bio">\nThis New England-based DJ has single-handedly captured
+        \nthe likes of more than 2,000 people in and beyond Boston, MA.
+        \nAnd even if you don\'t listen to the type of music he produces,
+        \nit\'s hard not to listen to his compelling Facebook bio.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">DONE</string>
+</resources>
